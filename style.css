@@ -1,0 +1,33 @@
+body
+{
+  background-color: #E8E8EE;
+  font-size: medium;
+  color: #343434;
+}
+
+.photo_profil
+{
+  height: 100px;
+  width: 100px;
+}
+
+img
+{
+  height: 100px;
+  width: 100px;
+}
+
+h1
+{
+  font-size: very-large;
+}
+
+h2
+{
+  font-size: large;
+}
+
+h3
+{
+  font-size: medium;
+}
